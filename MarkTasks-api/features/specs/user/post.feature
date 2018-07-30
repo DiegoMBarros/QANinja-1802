@@ -5,11 +5,7 @@ Funcionalidade: Cadastro
     Posso solicitar uma requisição do tipo POST
     Para que os dados deste usuário sejam de fato cadastrados no sistema
 
-<<<<<<< HEAD
     @post_200
-=======
-    @smoke
->>>>>>> 7523dfa0fd0e19a4606e75414ad41571c889a648
     Cenário: Cadastro simplificado
 
         Dado que o usuário informou os seguintes dados:
